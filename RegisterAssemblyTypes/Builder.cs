@@ -7,7 +7,7 @@ namespace RegisterAssemblyTypes
 {
     public static class Builder
     {
-        public static void RegisterAssemblyTypes(IServiceCollection services, Assembly assembly, string typeToRegister, ServiceLifetime lifetime)
+        public static void RegisterAssemblyTypes(this IServiceCollection services, Assembly assembly, string typeToRegister, ServiceLifetime lifetime)
         {
             if (assembly == null || assembly.GetTypes().Length == 0)
             {
