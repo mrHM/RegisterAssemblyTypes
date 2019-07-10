@@ -1,0 +1,6 @@
+Z:\netcoreapp\AspNetCoreBoilerPlate\RegisterAssemblyTypes\bin\Debug\netcoreapp2.2\RegisterAssemblyTypes.deps.json
+Z:\netcoreapp\AspNetCoreBoilerPlate\RegisterAssemblyTypes\bin\Debug\netcoreapp2.2\RegisterAssemblyTypes.dll
+Z:\netcoreapp\AspNetCoreBoilerPlate\RegisterAssemblyTypes\obj\Debug\netcoreapp2.2\RegisterAssemblyTypes.csprojAssemblyReference.cache
+Z:\netcoreapp\AspNetCoreBoilerPlate\RegisterAssemblyTypes\obj\Debug\netcoreapp2.2\RegisterAssemblyTypes.csproj.CoreCompileInputs.cache
+Z:\netcoreapp\AspNetCoreBoilerPlate\RegisterAssemblyTypes\obj\Debug\netcoreapp2.2\RegisterAssemblyTypes.AssemblyInfoInputs.cache
+Z:\netcoreapp\AspNetCoreBoilerPlate\RegisterAssemblyTypes\obj\Debug\netcoreapp2.2\RegisterAssemblyTypes.AssemblyInfo.cs
