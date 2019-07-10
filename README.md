@@ -21,5 +21,5 @@ e.g
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            Builder.RegisterAssemblyTypes(services, typeof(UserService).Assembly, "Service", ServiceLifetime.Scoped);
-            Builder.RegisterAssemblyTypes(services, typeof(UserRepository).Assembly, "Repository", ServiceLifetime.Scoped);
+            Builder.RegisterAssemblyTypes(typeof(UserService).Assembly, "Service", ServiceLifetime.Scoped);
+            Builder.RegisterAssemblyTypes(typeof(UserRepository).Assembly, "Repository", ServiceLifetime.Scoped);
