@@ -5,7 +5,7 @@ using System.Reflection;
 
 namespace RegisterAssemblyTypes
 {
-    public static class Builder
+    public static class ServiceExtension
     {
         public static void RegisterAssemblyTypes(this IServiceCollection services, Assembly assembly, string typeToRegister, ServiceLifetime lifetime)
         {
